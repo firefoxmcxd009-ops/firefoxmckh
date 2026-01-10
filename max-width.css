@@ -1,0 +1,56 @@
+@media (max-width: 768px) {
+    .app-bg {
+        padding: 0% 2%;
+        display: flex;
+        left: 10%;
+    }
+    .app-bg, .download-btn {
+        display: block;
+    }
+    .app-name {
+        font-size: 15px;
+        padding: 2%;
+    }
+    .app-info {
+        font-size: 15px;
+    }
+    .floating {
+        right: 2%;
+    }
+    .download-btn {
+        left: 80%;
+        transition: .50s ease;
+        cursor: pointer;
+    }
+    .owner-logo {
+        width: 17%;
+    }
+    .account {
+        font-size: 15px;
+    }
+    .background {
+        background: url(/image/background-gaming.jpg);
+        background-size: 100%;
+        background-attachment: fixed;
+    }
+    footer {
+        padding: 2.5% 5%;
+    }
+    footer, strong {
+        font-size: 15px;
+    }
+    .gif {
+        width: 80%;
+        left: 20%;
+    }
+    .paragraph {
+        left: 10%;
+    }
+    .profile {
+        left: 10%;
+    }
+    .site-info {
+        padding: 0% 12%;
+        left: 5%;
+    }
+}
